@@ -4,18 +4,18 @@ Use this as your note-taking structure for each week.
 
 ## Week 1 - Introduction to ML/AI
 
-- [ ] What is AI vs ML vs Generative AI
-- [ ] Predictive AI vs Agentic AI
-- [ ] Classification use cases
-- [ ] Regression use cases
+- [x] What is AI vs ML vs Generative AI
+- [x] Predictive AI vs Agentic AI
+- [x] Classification use cases
+- [x] Regression use cases
 
 ## Week 2 - Deep Learning in a Nutshell
 
-- [ ] Neural networks simplified
-- [ ] What are CNNs
-- [ ] Neural network deep dive
-- [ ] What is forward pass and backpropagation
-- [ ] Gen AI and LLM basics
+- [x] Neural networks simplified
+- [x] What are CNNs
+- [x] Neural network deep dive
+- [x] What is forward pass and backpropagation
+- [x] Gen AI and LLM basics
 
 ## Week 3 - NLP Basics and Transformers
 

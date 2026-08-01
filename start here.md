@@ -44,10 +44,10 @@ Use this as your note-taking structure for each week.
 
 ## Week 6 - No-Code Automation with n8n
 
-- [ ] Introduction to n8n interface (nodes, triggers, workflows)
-- [ ] API integrations (no coding)
-- [ ] Webhooks and data pipelines
-- [ ] Connecting LLMs inside n8n
+- [x] Introduction to n8n interface (nodes, triggers, workflows)
+- [x] API integrations (no coding)
+- [x] Webhooks and data pipelines
+- [x] Connecting LLMs inside n8n
 
 ## Week 7 - Understanding Real Agentic Workflows
 

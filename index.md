@@ -5,9 +5,6 @@ hero:
   name: "Agentic AI Applications"
   text: "An 8-Week Study Companion"
   tagline: From AI/ML foundations to production-ready agentic systems — built and automated with n8n.
-  image:
-    src: /favicon.svg
-    alt: Agentic AI Applications
   actions:
     - theme: brand
       text: Start Here

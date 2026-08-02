@@ -9,7 +9,7 @@
   - Demand
   - Price
   - Time to completion
-- In bootcamp-style projects, regression supports forecasting and business planning tasks.
+- Regression supports forecasting and business planning tasks.
 - Regional sales analysis can include regression to estimate future regional performance.
 - Regression outputs can be used inside agentic workflows to trigger decisions:
   - If projected sales drop below threshold -> trigger campaign plan.

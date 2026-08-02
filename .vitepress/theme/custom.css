@@ -7,6 +7,11 @@
 
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: linear-gradient(120deg, #818cf8 30%, #6366f1);
+
+  /* soft glow behind the hero video so it blends into the section
+     instead of sitting on top of it as a hard rectangle */
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, #818cf8 30%, #4f46e5 70%);
+  --vp-home-hero-image-filter: blur(56px);
 }
 
 .dark {

@@ -56,7 +56,7 @@
 - Generative AI: A GPT-based assistant that writes outreach emails, summaries, or reports.
 - Agentic AI: A multi-step agent that reads a task, searches data, uses tools/APIs, and returns a final output automatically.
 
-### Project Ideas from the Course
+### Project Ideas
 
 - Project 1: Agentic Knowledge Base Assistant (RAG System)
    Build a RAG-powered chatbot that answers questions from custom documents by combining intelligent retrieval with generative AI. Showcase skills in Retrieval-Augmented Generation, context-aware responses, and applied NLP.

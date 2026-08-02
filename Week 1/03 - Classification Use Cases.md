@@ -9,7 +9,7 @@
   - Churn/Not churn
   - Spam/Not spam
 - Classification can be binary (2 classes) or multi-class (3+ classes).
-- From course-aligned project ideas, customer churn prediction is a core classification use case.
+- Customer churn prediction is a core, widely used classification use case.
 - Classification outputs can be used by agentic workflows to trigger actions automatically.
 - Real-world business value: faster decisions, risk detection, customer retention, and automation of repetitive triage tasks.
 

@@ -3,15 +3,15 @@
 ## Notes
 
 - The bootcamp theme is strongly Agentic AI, but several project ideas also include predictive AI use cases.
-- Agentic AI focus from screenshots:
+- Agentic AI focus areas:
   - Build AI agents that automate tasks and create business impact.
   - Tools mentioned: LangChain, OpenAI APIs, vector databases, workflow orchestration, automation agents.
   - Emphasis on multi-step execution, tool usage, and workflow automation.
-- Predictive AI focus from screenshots:
+- Predictive AI focus areas:
   - Customer churn prediction.
   - AI-driven regional sales analysis (trend analysis and forecasting direction).
   - Pattern interpretation in crypto data dashboards.
-- Practical discussion points shown in notes:
+- Practical discussion points:
   - Python is useful for task automation and implementation.
   - No-code/low-code paths were also discussed for building workflows faster.
 - Career prep context connected to both tracks:

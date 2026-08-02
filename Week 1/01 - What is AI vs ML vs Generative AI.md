@@ -2,59 +2,37 @@
 
 ## Notes
 
-- Building Agentic AI Applications for Beginners - Kick Off Session
-- Discovery
-  - #doubt
-  - #general awareness
-- Mentions/handles noted: `@Naezi`, `@Aparna`, `@Suhyl` (handwriting unclear)
-- Idea building
-  - 8 PM IST
-  - 10:30 PM
-  - GMT time note written (partially unclear)
-- 1) Python
-  - Task automation
-- No code
-- Python <-> No Python discussion
-- Low code (noted as no-code style workflow)
-- Todo board sketched for tasks
-- Session flow scribbles mention: doubt -> ML -> use case -> agent -> feature
+- Course: Building Agentic AI Applications for Beginners.
+- Two build paths were discussed early on: Python (for task automation) and no-code/low-code tooling — both are valid depending on the use case.
+- General learning path framing: doubt -> ML -> use case -> agent -> feature.
 
-### Next Screenshot - Welcome to the Bootcamp
+### Program Overview
 
-- 8 weeks of hands-on, career-focused learning in Agentic AI (annotation: 2026)
+- 8 weeks of hands-on, career-focused learning in Agentic AI.
 - Tools to master:
   - LangChain
   - OpenAI APIs
   - Vector databases
   - Workflow orchestration
   - Automation agents
-- Learn to build AI agents that automate tasks and deliver real business impact
+- Learn to build AI agents that automate tasks and deliver real business impact.
 - Designed to make you job-ready with:
   - Real-world projects
   - Expert instruction
   - Peer and mentor support
-- A vibrant, collaborative learning community
-- Handwritten timeline notes:
-  - 2017 -> 2020 (annotated near projects)
-  - 2023 (ChatGPT) -> OpenAI -> GPT models
-  - Model notes visible: GPT-3.5, GPT-4, GPT-4o mini, and a GPT-5 note (partially cut off)
+- A vibrant, collaborative learning community.
+- Rough industry timeline for context:
+  - 2017–2020: early deep learning progress.
+  - 2023 (ChatGPT) -> OpenAI -> GPT models mark the current wave of interest.
+  - Model progression referenced: GPT-3.5, GPT-4, GPT-4o mini, up to GPT-5.
 
-### Next Screenshot - Career + Interview Prep Notes
+### Career and Interview Prep
 
-- Timeline sketch repeated:
-  - May -> June (30) -> July (31)
-  - ~4.5 weeks highlighted between June and July
-- Track focus sketch:
-  - Agentic AI as the main goal
-  - GenAI and Agent AI/Agent systems noted as linked sub-topics
-- Company target note:
-  - MAANG/FAANG-style companies mentioned (Meta, Apple, Amazon, Google, Netflix)
-- Interview prep topics called out:
-  - SQL
-  - Competitive programming
-  - DSA algorithms
-- Career transition note appears to mention moving from current companies (handwriting looks like Oracle / IBM / Deloitte; partially unclear)
-- "AI Engineer" path sketch suggests prioritizing AI skills first, while also covering programming, DSA, and aptitude over about 1 month.
+- Program timeline: roughly a 4.5-week phase spanning late June through July, inside the broader 8-week track.
+- Main track: Agentic AI, with GenAI and general agent systems as closely linked sub-topics.
+- Target companies discussed: MAANG/FAANG-style companies (Meta, Apple, Amazon, Google, Netflix).
+- Interview prep topics called out: SQL, competitive programming, DSA algorithms.
+- Suggested "AI Engineer" path: prioritize AI/agent skills first, while covering programming, DSA, and aptitude in parallel over about a month.
 
 ## Key Points
 
@@ -67,7 +45,7 @@
   - SQL
   - Competitive programming
   - Data Structures and Algorithms (DSA)
-- Timeline note from session scribbles: May -> June (30) -> July (31), with a ~4.5-week phase highlighted.
+- Program timeline: roughly a 4.5-week phase spanning late June through July.
 
 ## Examples
 

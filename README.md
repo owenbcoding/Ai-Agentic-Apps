@@ -4,6 +4,12 @@ This repository contains structured notes for an 8-week learning journey focused
 
 It is organized as a practical study companion that moves from AI/ML foundations to building and operating production-ready agent workflows.
 
+## Live Site
+
+These notes are also published as a browsable site (built with [VitePress](https://vitepress.dev), Vue-powered): **https://owenbcoding.github.io/Ai-Agentic-Apps/**
+
+Every lesson is its own page, grouped into a section per week, with sidebar navigation and full-text search.
+
 ## What This Repo Covers
 
 - Core AI and ML fundamentals (AI vs ML vs Generative AI, classification, regression)
@@ -30,6 +36,19 @@ Each markdown file represents one lesson/topic for that week.
 
 Open `start here.md` first.  
 It acts as the roadmap and checklist for all topics across the 8 weeks.
+
+## Running the Site Locally
+
+The site scaffolding (`.vitepress/`) reads every markdown file in this repo directly — no notes are copied or moved. To run it locally:
+
+```bash
+npm install
+npm run docs:dev       # local dev server with hot reload
+npm run docs:build     # production build, output to .vitepress/dist
+npm run docs:preview   # preview the production build
+```
+
+Pushing to `master` automatically rebuilds and deploys the site via the GitHub Actions workflow in `.github/workflows/deploy.yml` (requires **Settings → Pages → Source: GitHub Actions** enabled once on the repo).
 
 ## How To Use These Notes
 

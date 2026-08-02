@@ -51,12 +51,12 @@ Use this as your note-taking structure for each week.
 
 ## Week 7 - Understanding Real Agentic Workflows
 
-- [ ] Creating AI assistants in n8n
-- [ ] Tool calling and automation flows
-- [ ] What is RAG in automation systems
-- [ ] Integrating Google Sheets, Slack, and Email
-- [ ] Chunking and document ingestion workflows (RAG pipeline)
-- [ ] Error handling and workflow logic
+- [x] Creating AI assistants in n8n
+- [x] Tool calling and automation flows
+- [x] What is RAG in automation systems
+- [x] Integrating Google Sheets, Slack, and Email
+- [x] Chunking and document ingestion workflows (RAG pipeline)
+- [x] Error handling and workflow logic
 
 ## Week 8 - Production-Ready Agent Systems and Interview Preparation
 

@@ -13,7 +13,7 @@ hero:
       text: Browse Week 1
       link: /Week 1/
     - theme: alt
-      text: View on GitHub
+      text: Star on GitHub
       link: https://github.com/owenbcoding/Ai-Agentic-Apps
 
 features:

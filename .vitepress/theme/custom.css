@@ -33,3 +33,20 @@
 .VPFeature .title {
   font-size: 16px;
 }
+
+/* Slot the "Star on" link between the appearance (dark mode) toggle and the
+   GitHub icon in the nav bar. It's rendered last in the DOM (via the
+   nav-bar-content-after slot), so flexbox `order` pulls it back in front of
+   the social links / extra menu, which sit right before the hamburger. */
+.VPNavBar .content-body > .VPNavBarSocialLinks,
+.VPNavBar .content-body > .VPNavBarExtra {
+  order: 2;
+}
+
+.VPNavBar .content-body > .StarOnGitHub {
+  order: 1;
+}
+
+.VPNavBar .content-body > .VPNavBarHamburger {
+  order: 3;
+}
